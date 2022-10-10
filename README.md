@@ -2,13 +2,9 @@
 <h3 align="center">A passionate MEAN stack developer from India</h3>
 
 - 🔭 I’m currently working on [CliDa](https://github.com/Gangadhararao29/CliDa2)
-
 - 🌱 I’m currently learning **React, Java**
-
 - 💬 Ask me about **Angular, Javascript**
-
 - 📫 How to reach me **gangadharao29@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/gangadhararao-chandu-b16449209/](https://www.linkedin.com/in/gangadhararao-chandu)
 
 <h3 align="left">Connect with me:</h3>
