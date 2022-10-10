@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gangadharao29@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gangadhararao-chandu-b16449209/](https://www.linkedin.com/in/gangadhararao-chandu-b16449209/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gangadhararao-chandu-b16449209/](https://www.linkedin.com/in/gangadhararao-chandu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
