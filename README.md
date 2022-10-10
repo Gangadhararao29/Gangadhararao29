@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning **React, Java**
 - 💬 Ask me about **Angular, Javascript**
 - 📫 How to reach me **gangadharao29@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/gangadhararao-chandu-b16449209/](https://www.linkedin.com/in/gangadhararao-chandu)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gangadhararao-chandu/](https://www.linkedin.com/in/gangadhararao-chandu)
