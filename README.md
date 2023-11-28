@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MEAN stack developer from India</h3>
 
 - 🔭 I’m currently working on [CliDa](https://github.com/Gangadhararao29/CliDa2)
-- 🌱 I’m currently learning **Express NodeJS and PostgreSQL**
+- 🌱 I’m currently learning **.net core mvc**
 - 💬 Ask me about **Angular, Javascript**
 - 📫 How to reach me **gangadharao29@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/gangadhararao-chandu/](https://www.linkedin.com/in/gangadhararao-chandu)
